@@ -4,7 +4,7 @@ A lightweight, real-time terminal dashboard that reads raw hardware data directl
 
 Built with **Bash** and **Python**, this project bypasses heavy, pre-packaged system monitoring tools (like `htop` or `top`) to extract and calculate system metrics from scratch.
 
-![Dashboard Preview](link-to-a-screenshot-of-your-dashboard-here.png) *(Note: take a screenshot of your terminal and add it here later!)*
+![Dashboard Preview](images/image.png) *
 
 ##  Features
 * **Live CPU Tracking:** Monitors overall CPU load and individual core usage.
